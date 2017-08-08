@@ -2,15 +2,15 @@
     "dachangApp": {
         "entry" : {
             "home": {
-                "title": "Entries",
-                "createLabel": "Create a new Entry",
-                "createOrEditLabel": "Create or edit a Entry"
+                "title": "刷题记录",
+                "createLabel": "建立刷题记录",
+                "createOrEditLabel": "建立或修改刷题记录"
             },
             "created": "A new Entry is created with identifier {{ param }}",
             "updated": "A Entry is updated with identifier {{ param }}",
             "deleted": "A Entry is deleted with identifier {{ param }}",
             "delete": {
-                "question": "Are you sure you want to delete Entry {{ id }}?"
+                "question": "你确定要删除{{ id }}?"
             },
             "detail": {
                 "title": "Entry"
